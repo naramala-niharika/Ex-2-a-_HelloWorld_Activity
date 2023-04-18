@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## Output:
-![Output](https://github.com/naramala-niharika/Ex-2-a-_HelloWorld_Activity/blob/main/android1.png?raw=true)
+![Output](https://github.com/naramala-niharika/Ex-2-a-_HelloWorld_Activity/blob/main/android.1.png?raw=true)
 
 
 
